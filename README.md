@@ -14,11 +14,11 @@ This analysis aims to evaluate delivery efficiency and profitability across diff
 5. Calculating the **total number of products by subcategory** to assess inventory distribution.  
 
 ---
- ## Data Source
-Retail Sales  records was used in this analysis. Check it out [here](Retail-Supply-Chain-Sales-Analysis.csv)
+ ## Data Source:
+**Retail Sales  records was used in this analysis. Check it out** [here](Retail-Supply-Chain-Sales-Analysis.csv)
 ---
  ## METHODOLOGY
-Heres are my analysis [Sales Analysis](SALES.sql)
+### Heres are my analysis [Sales Analysis](SALES.sql)
 
 ### **1. Data Collection**
 - The dataset was sourced from `[CAPSTONE PROJECT].[dbo].[Sales Analysis]`, which contains sales-related records.  
